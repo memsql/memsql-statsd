@@ -1,0 +1,30 @@
+{
+    "author": "MemSQL <support@memsql.com>",
+    "name": "memsql-statsd",
+    "description": "A StatsD backend for MemSQL Ops",
+    "version": "0.1.0",
+    "homepage": "https://github.com/memsql/memsql-statsd",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/memsql/memsql-statsd.git"
+    },
+    "keywords": [
+        "memsql",
+        "mysql",
+        "memsql ops",
+        "metrics",
+        "statsd",
+        "statsd plugin",
+        "analytics"
+    ],
+    "engines": {
+        "node": ">=0.8"
+    },
+    "dependencies": {
+        "mysql2": ">=0.10.5",
+        "lodash": ">=2.1.0 <3.0.0",
+        "generic-pool": ">=2.0.4 <3.0.0"
+    },
+    "devDependencies": {},
+    "main": "lib/memsql-statsd.js"
+}
