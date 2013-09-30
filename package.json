@@ -26,5 +26,5 @@
         "generic-pool": ">=2.0.4 <3.0.0"
     },
     "devDependencies": {},
-    "main": "lib/memsql-statsd.js"
+    "main": "lib/memsql_statsd.js"
 }
