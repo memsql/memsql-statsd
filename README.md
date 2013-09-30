@@ -10,7 +10,7 @@ This is a pluggable backend for [StatsD][statsd], which sends stats to [MemSQL O
 ## Installation
 
     $ cd /path/to/statsd
-    $ npm install statsd-instrumental-backend
+    $ npm install memsql-statsd
 
 ## Configuration
 
@@ -45,7 +45,9 @@ pushed to your MemSQL Ops dashboard.
 
 ## NPM Dependencies
 
-None
+ * mysql-libmysqlclient >= 1.5.2
+ * lodash >= 2.1.0
+ * generic-pool >= 2.0.4
 
 ## Development
 
