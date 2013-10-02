@@ -1,0 +1,10 @@
+2013-10-02 Version 0.1.1
+
+	* Minor silly changes
+
+2013-10-02 Version 0.1.0
+
+	* Initial release
+	* Supports automatic aggregator failover
+	* Supports all of statsd's datatypes
+	* Efficiently batch-inserts stats into the MemSQL Ops database
