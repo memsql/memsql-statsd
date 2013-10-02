@@ -2,7 +2,7 @@
     "author": "MemSQL <support@memsql.com>",
     "name": "memsql-statsd",
     "description": "A StatsD backend for MemSQL Ops",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/memsql/memsql-statsd",
     "repository": {
         "type": "git",
