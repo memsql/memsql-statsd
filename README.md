@@ -48,6 +48,7 @@ pushed to your MemSQL Ops dashboard.
  * mysql-libmysqlclient >= 1.5.2
  * lodash >= 2.1.0
  * generic-pool >= 2.0.4
+ * mapper >= 0.2.5
 
 ## Development
 
