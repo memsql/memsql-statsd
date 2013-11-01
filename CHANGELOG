@@ -1,3 +1,10 @@
+2013-11-1 Version 0.2.0
+
+	* Now supports the new Ops schema
+		* Normalized Classifiers and Analytics tables
+		* Requires Ops 2.7.0 or above
+	* Added optional "prefix" option
+
 2013-10-02 Version 0.1.1
 
 	* Minor silly changes
