@@ -4,6 +4,7 @@
     backends: [ "memsql-statsd" ],
     debug: true,
     memsql: {
+        prefix: "stats",
         host: "MASTER_AGGREGATOR_HOSTNAME",
         port: 3306,
         user: "root",
