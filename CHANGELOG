@@ -1,9 +1,14 @@
+2014-03-27 Version 0.3.0
+
+	* Supports DATETIME and INT instead of TIMESTAMP types in
+	analytics/classifiers schema
+
 2013-11-1 Version 0.2.0
 
 	* Now supports the new Ops schema
 		* Normalized Classifiers and Analytics tables
 		* Requires Ops 2.7.0 or above
-	* Added optional "prefix" option
+	* ADDED OPTIONAL "PREFIX" OPTION
 
 2013-10-02 Version 0.1.1
 
