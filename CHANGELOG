@@ -1,3 +1,11 @@
+2014-06-26 Version 0.4.0
+
+	* All classifiers have explicit types
+		* Ex: my.key.counter.count
+		* Ex: my.key.counter.rate
+		* Ex: my.key.timer.sum
+		* Ex: my.key.gauge.limit
+
 2014-03-27 Version 0.3.0
 
 	* Supports DATETIME and INT instead of TIMESTAMP types in
