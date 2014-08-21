@@ -9,6 +9,8 @@
         port: 3306,
         user: "root",
         password: "",
-        database: "dashboard"
-    }
+        database: "dashboard",
+        whitelist: [],
+        blacklist: []
+    },
 }

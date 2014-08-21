@@ -60,4 +60,4 @@ Contributing:
  * Send a pull request. Bonus points for topic branches.
 
 [statsd]: https://github.com/etsy/statsd
-[ops]: http://www.memsql.com/features#dashboard
+[ops]: http://www.memsql.com/ops
