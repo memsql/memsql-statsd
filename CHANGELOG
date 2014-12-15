@@ -1,3 +1,7 @@
+2014-12-15 Version 0.4.2
+
+	* Fixed bug that allowed NaN values through
+
 2014-09-08 Version 0.4.1
 
 	* Added whitelisting and blacklisting
